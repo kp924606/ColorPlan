@@ -1,4 +1,6 @@
-*This Is My homework in school.*
+This Is My homework in CSU school.
+
+In order to develop a more perfect App of UI.
 =================
 * Learning Color collocation and "color feel" for people.
 
